@@ -4,3 +4,4 @@
   Something small enough to escape casual notice.
 </details>
 [Contribution guidelines for this project](smth.md)
+This site was built using [GitHub Pages](https://pages.github.com/).
