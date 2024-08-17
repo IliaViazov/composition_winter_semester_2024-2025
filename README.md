@@ -6,11 +6,11 @@
 </details>
 
 [Link](smth.md) to the next page
-
+<br></br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uJ_yVK4I8xI?si=uK2GKox-HtkYPtnY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<br></br>
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1896957294&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/ilya-vyazov" title="Ilya Vyazov" target="_blank" style="color: #cccccc; text-decoration: none;">Ilya Vyazov</a> · <a href="https://soundcloud.com/ilya-vyazov/blutroter-sonnenuntergang-und-unheimliche-stille" title="blutroter Sonnenuntergang und unheimliche Stille" target="_blank" style="color: #cccccc; text-decoration: none;">blutroter Sonnenuntergang und unheimliche Stille</a></div>
-
+<br></br>
 <p>
   In French, the usual term is the somewhat more self-explanatory micro-intervalle, and French sources give the equivalent German and English terms as Mikrointervall (or Kleinintervall) and micro interval (or microtone), respectively.[6][7][8][9] "Microinterval" is a frequent alternative in English, especially in translations of writings by French authors and in discussion of music by French composers.[10][11][12] In English, the two terms "microtone" and "microinterval" are synonymous.[13] The English analogue of the related French term, micro-intervalité, however, is rare or nonexistent, normally being translated as "microtonality"; in French, the terms micro-ton, microtonal (or micro-tonal), and microtonalité are also sometimes used, occasionally mixed in the same passage with micro-intervale and micro-intervalité.[5][14][15][16]
 
