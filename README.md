@@ -4,14 +4,4 @@
   Little spoiler to put information
 </details>
 [Link](smth.md) to the next page
-<video controls width="250">
-  <source src="/media/cc0-videos/flower.webm" type="video/webm" />
-
-  <source src="/media/cc0-videos/flower.mp4" type="video/mp4" />
-
-  Download the
-  <a href="/media/cc0-videos/flower.webm">WEBM</a>
-  or
-  <a href="/media/cc0-videos/flower.mp4">MP4</a>
-  video.
-</video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uJ_yVK4I8xI?si=uK2GKox-HtkYPtnY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
