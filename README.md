@@ -11,6 +11,8 @@
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1896957294&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/ilya-vyazov" title="Ilya Vyazov" target="_blank" style="color: #cccccc; text-decoration: none;">Ilya Vyazov</a> · <a href="https://soundcloud.com/ilya-vyazov/blutroter-sonnenuntergang-und-unheimliche-stille" title="blutroter Sonnenuntergang und unheimliche Stille" target="_blank" style="color: #cccccc; text-decoration: none;">blutroter Sonnenuntergang und unheimliche Stille</a></div>
 <br>
 
+<embed src="http://example.com/the.pdf" width="500" height="375" type="application/pdf">
+
 Below is an example text, just to have an impression, how layout looks like.
 The term MOS, and the method of scale construction it entails, were invented by Erv Wilson in 1975. His original paper is archived on Anaphoria.com here: Moments of Symmetry. There is also an introduction by Kraig Grady here: Introduction to Erv Wilson's Moments of Symmetry.
 
