@@ -1,11 +1,10 @@
-# Welcome to the test demo of our website!
+# Welcome to the demo of our website!
 <details>
   <summary>Details</summary>
   Little spoiler to put information
 </details>
 <br>
 [Link](smth.md) to the next page
-<button onclick="location.href='smth.md'" type="button">link to the same page but button</button>
 
 <br>
 <iframe width="100%" height="500" src="https://www.youtube.com/embed/uJ_yVK4I8xI?si=uK2GKox-HtkYPtnY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
