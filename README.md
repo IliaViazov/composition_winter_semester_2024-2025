@@ -13,6 +13,8 @@
 
 <embed src="https://www.ugr.es/~fmanjon/Language%20and%20Mind.pdf" width="100%" height="700" type="application/pdf">
 
+<button onclick="location.href='http://www.example.com'" type="button">www.example.com</button>
+
 Below is an example text, just to have an impression, how layout looks like.
 <br>
 
