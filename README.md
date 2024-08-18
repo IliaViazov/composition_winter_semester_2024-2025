@@ -5,6 +5,8 @@
 </details>
 <br>
 [Link](smth.md) to the next page
+<button onclick="location.href='smth.md'" type="button">link to the same page but button</button>
+
 <br>
 <iframe width="100%" height="500" src="https://www.youtube.com/embed/uJ_yVK4I8xI?si=uK2GKox-HtkYPtnY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <br>
@@ -12,8 +14,6 @@
 <br>
 
 <embed src="https://www.ugr.es/~fmanjon/Language%20and%20Mind.pdf" width="100%" height="700" type="application/pdf">
-
-<button onclick="location.href='http://www.example.com'" type="button">www.example.com</button>
 
 Below is an example text, just to have an impression, how layout looks like.
 <br>
