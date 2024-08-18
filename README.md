@@ -15,6 +15,7 @@
 
 Below is an example text, just to have an impression, how layout looks like.
 <br>
+
 The term MOS, and the method of scale construction it entails, were invented by Erv Wilson in 1975. His original paper is archived on Anaphoria.com here: Moments of Symmetry. There is also an introduction by Kraig Grady here: Introduction to Erv Wilson's Moments of Symmetry.
 
 Sometimes, scales are defined with respect to a period and an additional "equivalence interval," considered to be the interval at which pitch classes repeat. MOS's in which the equivalence interval is a multiple of the period, and in which there is more than one period per equivalence interval, are sometimes called Multi-MOS's. MOS's in which the equivalence interval is equal to the period are sometimes called Strict MOS's. MOS's in which the equivalence interval and period are simply disjunct, with no rational relationship between them, are simply MOS and have no additional distinguishing label.
