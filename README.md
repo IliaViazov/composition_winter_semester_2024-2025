@@ -1,6 +1,5 @@
----
 # What if i put h1 and also move in the beginning
-
+---
 [Link](smth.md) to the next page
 
 <iframe width="100%" height="500" src="https://www.youtube.com/embed/uJ_yVK4I8xI?si=uK2GKox-HtkYPtnY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
