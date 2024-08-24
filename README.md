@@ -1,4 +1,3 @@
-# Composition Clas WiSe2024
 <br>
 [Link](smth.md) to the next page
 
