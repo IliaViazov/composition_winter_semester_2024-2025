@@ -1,4 +1,4 @@
-## What if i put h2 and also move in the beginning
+### What if i put h3 and also move in the beginning
 <br>
 [Link](smth.md) to the next page
 <br>
