@@ -1,8 +1,4 @@
-# Welcome to the demo of our website!
-<details>
-  <summary>Details</summary>
-  Little spoiler to put information
-</details>
+# Composition Clas WiSe2024
 <br>
 [Link](smth.md) to the next page
 
