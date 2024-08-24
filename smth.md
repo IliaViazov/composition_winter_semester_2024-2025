@@ -1,4 +1,4 @@
-<- [Back to main](index.md)
+**<- [Back to main](index.md)**
 
 Right now here examples of the embeded links. Embedment could be from links to the clouds or web-resourses or also could be from the local files, that uploaded to the repository of our website on Github. For this repo we have 500 Mb free, so we can upload some scores in pdf directly to the repo. If we will be running out of space, we always could create another repo and so on and so on. Or just create a cloud storage with Google.drive or smth like this.
 
