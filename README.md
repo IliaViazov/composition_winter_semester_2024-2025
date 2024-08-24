@@ -1,5 +1,4 @@
----
-# What if i put h1 and also move in the beginning but separate by split and also remove <br>
+# What if i put h1 and also move in the beginning
 
 [Link](smth.md) to the next page
 
