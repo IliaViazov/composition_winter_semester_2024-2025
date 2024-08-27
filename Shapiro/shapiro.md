@@ -2,8 +2,8 @@
 
 **< [Back to materials](../materials.md)**
 
-<embed src="drumset.pdf" width="100%" height="700" type="application/pdf">
-<br>
+<div><embed src="drumset.pdf" width="50%" height="700" type="application/pdf">
+<br><iframe width="50%" height="315" src="https://www.youtube.com/embed/7y_BiISxZ8A?si=P-uedYxtZiNJpT2J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
 ### Recommended pieces by Jonathan
 
