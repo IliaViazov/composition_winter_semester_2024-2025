@@ -15,7 +15,7 @@
 ### Liepa Vozgirdaité — cOUNtDOwNs
 <embed src="countdown.pdf" width="100%" height="700" type="application/pdf">
 
-Sorry, I didn't find the recording
+Sorry, I didn't find the recording. If someone will find, let me know — I will add.
 
 <br>
 
