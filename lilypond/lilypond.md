@@ -18,13 +18,19 @@ An incredible feature of Lilypond is an implementation into BACH library in Max/
 You can be afraid of the big amount of text that you should read and understand, so I made a research for you (and for me, sure, because I'm also planning to start using it), and I have some most improtant resourses. I definetely recommend to start from video-tutorials and only then dive into the books, that they offer.
 
 - [Installing process](https://lilypond.org/doc/v2.24/Documentation/learning/installing)
+
 - [Video tutorials](https://youtube.com/playlist?list=PLHi8BvxILUV6x9FqEmZiYrEj6VMGmTKjt&si=EvQ59bfyJH42t1sx) from Ben Lemon. Really helps to start engrave some simple scores in a small amount of time. Super understandable short videos.
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/videoseries?si=uG4Yx4gEeuy02TO1&amp;list=PLHi8BvxILUV6x9FqEmZiYrEj6VMGmTKjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/videoseries?si=uG4Yx4gEeuy02TO1&amp;list=PLHi8BvxILUV6x9FqEmZiYrEj6VMGmTKjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 - [Video tutorials](https://youtube.com/playlist?list=PL3frlaLiaXz_zQmiGbGeh3Q96sO6nt-l-&si=7NbAqGWTvvA7Wnnl) from Mikhail Puchkov. Mikhail Puchkov is a russian composer and also a main pioneer of Lilypond nowadays, and he has recorded 4 tutorials for contemporary composers about some elements of contemporary notation, and he was planning to make more. Unfortunately (not for me and Valerii), it's in russian, but you can use auto-generated subs or voice-translation tools.
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/videoseries?si=7NbAqGWTvvA7Wnnl&amp;list=PL3frlaLiaXz_zQmiGbGeh3Q96sO6nt-l-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/videoseries?si=7NbAqGWTvvA7Wnnl&amp;list=PL3frlaLiaXz_zQmiGbGeh3Q96sO6nt-l-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 - [Learning manual](https://lilypond.org/doc/v2.24/Documentation/web/learning). Must-have to read. The content of the first chapter of the book is pretty the same as the content of Ben Lemon's tutorials. But Chapter 2 and 3 give you more deep understanding of the syntax and mechanics that are covered under Lilypond. 
+
 - [Notation manual](https://lilypond.org/doc/v2.24/Documentation/web/notation). All needed information is here. How to notate the shit with full explanation, and you can easily search through the document.
+
 - [Snippets](https://lilypond.org/doc/v2.24/Documentation/web/snippets). Just some snippets with ready-to-use solutions.
+
 - [Essay](https://lilypond.org/essay.html) of Lilypond's developers about engraving and philosophy. It's a small essay from devteam about their inspiration and development process of Lilypond. Optional to read, but it's quite interesting.
