@@ -23,9 +23,11 @@ You can be afraid of the big amount of text that you should read and understand,
 <iframe width="100%" height="500" src="https://www.youtube.com/embed/videoseries?si=uG4Yx4gEeuy02TO1&amp;list=PLHi8BvxILUV6x9FqEmZiYrEj6VMGmTKjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <br>
 
+
 - [Video tutorials](https://youtube.com/playlist?list=PL3frlaLiaXz_zQmiGbGeh3Q96sO6nt-l-&si=7NbAqGWTvvA7Wnnl) from Mikhail Puchkov. Mikhail Puchkov is a russian composer and also a main pioneer of Lilypond nowadays, and he has recorded 4 tutorials for contemporary composers about some elements of contemporary notation, and he was planning to make more. Unfortunately (not for me and Valerii), it's in russian, but you can use auto-generated subs or voice-translation tools.
 <iframe width="100%" height="500" src="https://www.youtube.com/embed/videoseries?si=7NbAqGWTvvA7Wnnl&amp;list=PL3frlaLiaXz_zQmiGbGeh3Q96sO6nt-l-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <br>
+
 
 - [Learning manual](https://lilypond.org/doc/v2.24/Documentation/web/learning). Must-have to read. The content of the first chapter of the book is pretty the same as the content of Ben Lemon's tutorials. But Chapter 2 and 3 give you more deep understanding of the syntax and mechanics that are covered under Lilypond. 
 
