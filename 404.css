@@ -8,7 +8,7 @@ body {
 	background: currentColor;
 	display: flex;
 	height: 100vh;
-	color: linear-gradient(120deg, #370c6e, #2ba1dc)
+	background-image: linear-gradient(120deg, #370c6e, #2ba1dc);
 }
 /* I. Containers */
 figure {
