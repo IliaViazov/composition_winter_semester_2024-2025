@@ -1,7 +1,7 @@
 
 ---
 # Welcome!
-**[Materials](materials.md)** *(Update!!!)*
+<!---**[Materials](materials.md)** *(Update!!!)*
 
 **[Assignments](assignments.md)** (will be soon)
 
