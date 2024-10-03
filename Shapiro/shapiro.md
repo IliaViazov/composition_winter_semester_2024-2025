@@ -1,7 +1,3 @@
-**< [Back to main](../index.md)**
-
-**< [Back to materials](../materials.md)**
-
 ## Presentation
 <embed src="drumset.pdf" width="100%" height="700" type="application/pdf">
 <br>
