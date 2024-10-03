@@ -21,3 +21,5 @@ A bit lower — volume control and a DSP-Button (a button with the loudspeaker, 
 The synthesizer has an ADSR envelope, so you can experement with different types of the articulation.
 
 ![Synth screenshot](synth_screen.png)
+
+UPD: I found out that actually it's possible to make a windows application (.exe) out of this max patch, but it could be done only on Windows. If someone of you could do this — go for it
