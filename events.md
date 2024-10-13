@@ -1,2 +1,2 @@
-**[Donaueschingen](donaue/donaue.md)**
+**[Donaueschingen Musiktage](donaue/donaue.md)**
 **[Decoder](decoder/decoder.md)**
