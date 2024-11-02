@@ -1,4 +1,4 @@
-**[Tristan Murail. Desintegration](murail/murail.md)**
+**[Tristan Murail. Desintegrations](murail/murail.md)**
 
 **[Materials of the week 1](week_1/week_1.md)**
 
