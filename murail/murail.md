@@ -10,3 +10,5 @@ Hier sind die Fragen:
 <embed src="https://classic-online.ru/uploads/000_notes/12900/12866.pdf" width="100%" height="700" type="application/pdf">
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/4basuUUatf8?si=BZ_vZWSFcEKmX9Lt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <br>
+
+<embed src="analysis.pdf" width="100%" height="700" type="application/pdf">
